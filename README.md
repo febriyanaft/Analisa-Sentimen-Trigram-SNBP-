@@ -1,9 +1,10 @@
-Tugas 01_Pertemuan 5
+# Tugas 01 - Pertemuan 5
 
-NIM 2412501591
-Febriyana Triwijayanti,
-AF - Analisis Teks pada Sosial Media, 
-Dosen Pengampu : Merry Anggraeni, S.Kom., M.Kom
+- **NIM** : 2412501591  
+- **Nama** : Febriyana Triwijayanti  
+- **Kelas/Kelompok** : AF  
+- **Mata Kuliah** : Analisis Teks pada Media Sosial  
+- **Dosen Pengampu** : Merry Anggraeni, S.Kom., M.Kom  
 
-
-Repository Analisa Sentimen Trigram "SNBP"
+## 📊 Repository
+Repository ini berisi project **Analisa Sentimen Trigram "SNBP"** menggunakan metode N-Gram (Trigram) dan KSI (Kamus InSet).
