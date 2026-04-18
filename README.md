@@ -2,7 +2,7 @@
 
 - **NIM** : 2412501591  
 - **Nama** : Febriyana Triwijayanti  
-- **Kelas/Kelompok** : AF  
+- **Kelompok** : AF  
 - **Mata Kuliah** : Analisis Teks pada Media Sosial  
 - **Dosen Pengampu** : Merry Anggraeni, S.Kom., M.Kom  
 
